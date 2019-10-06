@@ -1,5 +1,6 @@
 ![N|Solid](https://img.shields.io/badge/language-kotlin-orange)
 ![N!Solid](https://img.shields.io/badge/release-0.4-blue)
+![N!Solid](https://img.shields.io/badge/API-19+-green)
 ![N|Solid](https://img.shields.io/twitter/follow/hiteshpatel1142?label=Twitter)
 
 # LinkableLogApp
