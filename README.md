@@ -2,7 +2,7 @@
 ![N!Solid](https://img.shields.io/badge/release-0.4-blue)
 ![N!Solid](https://img.shields.io/badge/API-19+-green)
 ![N|Solid](https://img.shields.io/twitter/follow/hiteshpatel1142?label=Twitter)
-
+[ ![Download](null/packages/hitesh-dhamshaniya/maven/linkablelog/images/download.svg?version=0.4) ](https://bintray.com/hitesh-dhamshaniya/maven/linkablelog/0.4/link)
 # LinkableLogApp
 The power of android logcat, now developer can jump right to the log printed from.
 
